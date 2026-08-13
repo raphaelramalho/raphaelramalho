@@ -30,7 +30,7 @@
 
 <p align="left">
   <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank">
+  <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   </a>
   <a href="https://www.php.net" target="_blank">
@@ -63,7 +63,7 @@
 <p align="left">
   <!-- DevOps & Cloud -->
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
