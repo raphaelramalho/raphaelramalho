@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg width="40"/>
   </a>
 </p>
 
